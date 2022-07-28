@@ -1,10 +1,11 @@
 package com.example.kalkulator;
 
 public class Calculator {
-    public void addition(){
+    public void addition() {
         System.out.println("It works");
     }
-    public void subtraction(){
+
+    public void subtraction() {
 
     }
 
